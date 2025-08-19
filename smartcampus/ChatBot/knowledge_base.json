@@ -1,0 +1,1926 @@
+
+{
+  "college_info": {
+    "name": "SIT (Siliguri Institute of Technology)",
+    "website": "https://www.sit.ac.in",
+    "contact_url": "https://www.sit.ac.in/contact",
+    "admissions_url": "https://www.sit.ac.in/admissions",
+    "courses_url": "https://www.sit.ac.in/courses",
+    "location": "Hill Cart Road, Salbari, Sukna, Siliguri, West Bengal - 734009",
+    "Principal": "Mithun Chakraborty",
+    "Founded": "1999",
+    "affiliation": "MAKAUT (Maulana Abul Kalam Azad University of Technology)",
+    "school Type": "Private",
+
+    "contact": {
+      "phone": "+91- 094345 27272",
+      "email": ""},
+      "Academic Staff": "250+"
+  },
+  "courses": {
+    "btech": {
+      "branches": [
+        "Computer Science and Engineering",
+        "Electronics and Communication Engineering",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Electrical Engineering"
+      ],
+      "duration": "4 years",
+      "eligibility": "10+2 with PCM, valid WBJEE or JEE Main score"
+    },
+    "mtech": {
+      "specializations": [
+        "Computer Science and Engineering",
+        "VLSI Design",
+        "Structural Engineering"
+      ],
+      "duration": "2 years",
+      "eligibility": "B.Tech in relevant field"
+    },
+    "mba": {
+      "specializations": [
+        "Marketing",
+        "Finance",
+        "Human Resource Management"
+      ],
+      "duration": "2 years",
+      "eligibility": "Graduation with valid MAT/CAT score"
+    },
+    "mca": {
+      "duration": "2 years",
+      "eligibility": "BCA or Graduation with Mathematics"
+    }
+  },
+
+  
+
+  "admissions": {
+    "process": "1. Fill form online\n2. Submit documents\n3. Entrance exam\n4. Counseling",
+    "requirements": "10+2 with PCM, 60% marks",
+    "deadline": "May 31, 2024"
+  },
+  "exams": {
+    "schedule": "Midterm: March 15–30, 2024\nFinal: June 1–15, 2024",
+    "rules": "Bring college ID, no phones allowed"
+  },
+  "placements": {
+
+    "companies": "TCS, Infosys, Wipro, L&T",
+
+    "stats": "85% placement, avg ₹6.5 LPA"
+  },
+  
+  "faqs": [
+    {
+      "question": "How can I apply for admission?",
+      "answer": "You can apply for admission through the official SIT website by filling out the online application form available in the 'Admissions' section."
+    },
+    {
+      "question": "When does the admission process start?",
+      "answer": "The admission process usually begins in April every year and continues until seats are filled."
+    },
+    {
+      "question": "What is the eligibility for B.Tech courses?",
+      "answer": "To apply for B.Tech, you must have passed 10+2 with Physics, Chemistry, and Mathematics, and have a valid WBJEE or JEE Main score."
+    },
+    {
+      "question": "Is there any entrance exam for admission?",
+      "answer": "Yes, admission to B.Tech programs is based on WBJEE or JEE Main scores."
+    },
+    {
+      "question": "What is the fee structure for B.Tech?",
+      "answer": "The tuition fee for B.Tech is \u20b91,05,000 per semester. Additional charges apply for hostel, exam, and registration."
+    },
+    {
+      "question": "Are there any management quota seats?",
+      "answer": "Yes, a limited number of seats are available under the management quota. Please contact the admission office for more details."
+    },
+    {
+      "question": "What documents are needed during admission?",
+      "answer": "You need to submit your 10th and 12th mark sheets, entrance exam scorecard, photo ID, passport size photos, and caste/income certificates if applicable."
+    },
+    {
+      "question": "Is there any scholarship for girls?",
+      "answer": "Yes, SIT offers special scholarships for meritorious female candidates. Please check the scholarship section of our website for eligibility."
+    },
+    {
+      "question": "Can international students apply?",
+      "answer": "Yes, international students can apply through the foreign admissions cell. Valid passport, visa, and academic transcripts are required."
+    },
+    {
+      "question": "What is the process for lateral entry in B.Tech?",
+      "answer": "Diploma holders can apply for lateral entry directly into the 2nd year of B.Tech via JELET exam conducted by WBJEEB."
+    },
+    {
+      "question": "How can I register for counseling?",
+      "answer": "You can register for counseling on the official WBJEEB or JEE Main portal, depending on your entrance exam."
+    },
+    {
+      "question": "Is there an offline application form available?",
+      "answer": "No, the application process is entirely online through our website."
+    },
+    {
+      "question": "Can I visit the campus before applying?",
+      "answer": "Yes, you can visit the campus between 10 AM to 4 PM on weekdays with prior appointment."
+    },
+    {
+      "question": "Can I apply for multiple courses?",
+      "answer": "Yes, you can choose multiple course preferences during the application process."
+    },
+    {
+      "question": "Are diploma holders eligible for admission?",
+      "answer": "Yes, diploma holders can apply for lateral entry into 2nd year of B.Tech."
+    },
+    {
+      "question": "What B.Tech branches are available?",
+      "answer": "We offer B.Tech in Computer Science, Mechanical, Civil, Electrical, and Electronics & Communication."
+    },
+    {
+      "question": "Does SIT offer MCA or MBA?",
+      "answer": "Yes, SIT offers both MCA and MBA programs with industry-relevant curriculum."
+    },
+    {
+      "question": "Do you offer any short-term or certification courses?",
+      "answer": "Yes, we offer certification programs in Python, AI/ML, IoT, and more."
+    },
+    {
+      "question": "Is there any integrated course like B.Tech + MBA?",
+      "answer": "Currently, we do not offer integrated B.Tech + MBA programs."
+    },
+    {
+      "question": "What is the duration of B.Tech course?",
+      "answer": "The B.Tech course duration is 4 years, divided into 8 semesters."
+    },
+    {
+      "question": "What is the minimum percentage required for admission?",
+      "answer": "A minimum of 45% marks in 10+2 (PCM) is required for general category students."
+    },
+    {
+      "question": "Do you accept CUET scores?",
+      "answer": "No, currently SIT does not consider CUET for engineering admissions."
+    },
+    {
+      "question": "Can students from other boards apply?",
+      "answer": "Yes, students from any recognized board in India can apply."
+    },
+    {
+      "question": "What is the age limit for admission?",
+      "answer": "There is no strict age limit, but applicants must have completed 10+2."
+    },
+    {
+      "question": "Do I need to attend any interview for admission?",
+      "answer": "No interview is required for B.Tech admissions based on entrance scores."
+    },
+    {
+      "question": "Are the tuition fees same for all branches?",
+      "answer": "Yes, tuition fees are uniform across all engineering branches."
+    },
+    {
+      "question": "Do you offer fee waivers?",
+      "answer": "Fee waivers are available for economically weaker sections under certain criteria."
+    },
+    {
+      "question": "Is there a refund policy for fees?",
+      "answer": "Yes, fee refunds are governed by AICTE refund rules depending on the withdrawal date."
+    },
+    {
+      "question": "Can I pay fees in installments?",
+      "answer": "Yes, semester-wise installment payment is allowed."
+    },
+    {
+      "question": "What are the modes of payment accepted?",
+      "answer": "We accept online payments, bank transfers, UPI, and demand drafts."
+    },
+    {
+      "question": "Are hostels compulsory?",
+      "answer": "No, hostels are optional, but highly recommended for outstation students."
+    },
+    {
+      "question": "Is Wi-Fi available in hostels?",
+      "answer": "Yes, Wi-Fi is available 24/7 in all hostel rooms and common areas."
+    },
+    {
+      "question": "Is there separate hostel for girls?",
+      "answer": "Yes, we have separate secure hostels for girls and boys."
+    },
+    {
+      "question": "Is outside food allowed in hostel?",
+      "answer": "Outside food is generally discouraged; mess food is hygienic and nutritious."
+    },
+    {
+      "question": "Can parents stay on campus during admission?",
+      "answer": "Yes, limited guest accommodation is available for parents during admission."
+    },
+    {
+      "question": "What is the average placement package?",
+      "answer": "The average package ranges between \u20b94.5 to \u20b96 LPA depending on the branch."
+    },
+    {
+      "question": "Which companies visit the campus?",
+      "answer": "Top recruiters include TCS, Infosys, Wipro, Capgemini, Cognizant, and more."
+    },
+    {
+      "question": "Are internships mandatory?",
+      "answer": "Yes, internships are a part of the curriculum in later semesters."
+    },
+    {
+      "question": "Is there training provided for placements?",
+      "answer": "Yes, we provide pre-placement training including aptitude, soft skills, and coding."
+    },
+    {
+      "question": "Do you have placement for non-CS branches?",
+      "answer": "Yes, all branches get placement opportunities with relevant companies."
+    },
+    {
+      "question": "Is there an on-campus medical facility?",
+      "answer": "Yes, a first-aid medical center with doctor-on-call service is available."
+    },
+    {
+      "question": "Do you have a gym on campus?",
+      "answer": "Yes, a fully equipped gym is available for students."
+    },
+    {
+      "question": "Is there a library in the college?",
+      "answer": "Yes, SIT has a digital and physical library with thousands of academic resources."
+    },
+    {
+      "question": "Are there ATM facilities on campus?",
+      "answer": "Yes, ATMs of major banks are located within the campus."
+    },
+    {
+      "question": "Is the campus ragging-free?",
+      "answer": "Yes, SIT has a strict anti-ragging policy enforced by the disciplinary committee."
+    },
+    {
+      "question": "Where is SIT located?",
+      "answer": "Siliguri Institute of Technology is located at Hill Cart Road, Salbari, Sukna, Siliguri."
+    },
+    {
+      "question": "What are the college timings?",
+      "answer": "Classes usually run from 9:30 AM to 4:30 PM, Monday to Friday."
+    },
+    {
+      "question": "How can I contact the admission office?",
+      "answer": "You can call +91-XXXXXXXXXX or email admissions@sittechno.org."
+    },
+    {
+      "question": "Is there any dress code or uniform?",
+      "answer": "There is no strict dress code, but students are expected to dress decently."
+    },
+    {
+      "question": "Do you provide transport facility?",
+      "answer": "Yes, college buses are available from major points in Siliguri."
+    },
+    {
+      "question": "Where is the campus located?",
+      "answer": "Siliguri Institute of Technology is located at Hill Cart Road, Salbari, Sukna, Siliguri, West Bengal - 734009."
+    },
+    {
+      "question": "How big is the campus?",
+      "answer": "The SIT campus spans over 20 acres and includes academic buildings, hostels, sports grounds, and a library."
+    },
+    {
+      "question": "Does SIT have a library?",
+      "answer": "Yes, SIT has a central library with thousands of books, journals, and a digital section for online learning."
+    },
+    {
+      "question": "Are Wi-Fi facilities available on campus?",
+      "answer": "Yes, SIT campus and hostels have high-speed Wi-Fi access for students and faculty."
+    },
+    {
+      "question": "Is there a canteen on campus?",
+      "answer": "Yes, a hygienic canteen is available with a variety of vegetarian and non-vegetarian food options."
+    },
+    {
+      "question": "What are the names of the engineering departments?",
+      "answer": "SIT offers the following engineering departments: CSE, ECE, ME, CE, and EEE."
+    },
+    {
+      "question": "Does SIT offer BCA or BBA?",
+      "answer": "Yes, SIT offers undergraduate programs like BCA, BBA, and BHM."
+    },
+    {
+      "question": "What postgraduate programs are offered?",
+      "answer": "SIT offers postgraduate courses like MCA, MBA, and M.Tech in select branches."
+    },
+    {
+      "question": "Can I choose a minor specialization?",
+      "answer": "Some departments offer minor electives or specialization tracks like AI/ML, Data Science, and IoT."
+    },
+    {
+      "question": "Is the syllabus AICTE approved?",
+      "answer": "Yes, all programs are AICTE approved and follow MAKAUT university guidelines."
+    },
+    {
+      "question": "What are the placement stats?",
+      "answer": "Around 80-85% of eligible students are placed each year, with top offers from IT and core sectors."
+    },
+    {
+      "question": "What is the highest package?",
+      "answer": "The highest package offered so far is \u20b918 LPA in a tech company."
+    },
+    {
+      "question": "Is placement assistance provided?",
+      "answer": "Yes, SIT has a dedicated Career Development Cell offering training, internships, and job support."
+    },
+    {
+      "question": "What are the top recruiting companies?",
+      "answer": "Top recruiters include TCS, Wipro, Cognizant, Infosys, Capgemini, and Amazon."
+    },
+    {
+      "question": "Is off-campus placement support available?",
+      "answer": "Yes, students are also guided for off-campus and pooled drives."
+    },
+    {
+      "question": "Is hostel accommodation compulsory?",
+      "answer": "No, hostel stay is optional, but many outstation students prefer it for convenience."
+    },
+    {
+      "question": "What is included in hostel fees?",
+      "answer": "Hostel fees include accommodation, mess food, Wi-Fi, electricity, and laundry services."
+    },
+    {
+      "question": "How many students share one room?",
+      "answer": "Non-AC rooms are triple-sharing, and AC rooms are twin-sharing."
+    },
+    {
+      "question": "Are there separate hostels for boys and girls?",
+      "answer": "Yes, SIT provides separate hostels for boys and girls with strict security."
+    },
+    {
+      "question": "Is there a curfew in the hostel?",
+      "answer": "Yes, hostel gates close at 9:30 PM and students must follow the schedule strictly."
+    },
+    {
+      "question": "What are the documents required at admission time?",
+      "answer": "You need mark sheets, admit card, rank card, photo ID, passport photos, and caste/income certificate if applicable."
+    },
+    {
+      "question": "Can I apply without WBJEE or JEE Main?",
+      "answer": "For B.Tech, entrance scores are mandatory. For other UG/PG courses, direct admission may be available."
+    },
+    {
+      "question": "Are there any reservations?",
+      "answer": "Yes, reservations follow government norms for SC, ST, OBC, and EWS categories."
+    },
+    {
+      "question": "What is the last date for applying?",
+      "answer": "The last date varies each year but is usually in July or August."
+    },
+    {
+      "question": "How to track my application status?",
+      "answer": "Login to the admission portal and check your application status using your credentials."
+    },
+    {
+      "question": "How can I contact the CSE department?",
+      "answer": "You can email the CSE department via cse@sittech.edu.in or contact through the main office."
+    },
+    {
+      "question": "Where can I get academic timetables?",
+      "answer": "Academic timetables are published on the official website under the 'Quick Links' section."
+    },
+    {
+      "question": "How to get the exam schedule?",
+      "answer": "Exam schedules are posted online on the college website before each semester."
+    },
+    {
+      "question": "What is the email for admissions?",
+      "answer": "You can reach the admission office at admissions@sittech.edu.in."
+    },
+    {
+      "question": "What are the working hours of college?",
+      "answer": "College functions from 9:30 AM to 5:00 PM, Monday to Saturday."
+    },
+    {
+      "question": "Does SIT have an incubation center?",
+      "answer": "Yes, SIT has an Innovation & Incubation Cell to support student startups."
+    },
+    {
+      "question": "Can I participate in technical fests?",
+      "answer": "Yes, SIT organizes annual tech and cultural fests where all students can participate."
+    },
+    {
+      "question": "Is there a robotics or coding club?",
+      "answer": "Yes, there are active clubs for robotics, coding, AI/ML, and photography."
+    },
+    {
+      "question": "Are online classes available?",
+      "answer": "Yes, SIT uses Google Classroom, Moodle, and Zoom for hybrid learning."
+    },
+    {
+      "question": "Do you offer foreign exchange programs?",
+      "answer": "Select departments offer MoUs with foreign universities for exchange opportunities."
+    },
+    {
+      "question": "Who are the faculty members in the CSE department?",
+      "answer": "You can find the detailed faculty list for CSE on the official website under the 'Departments' section."
+    },
+    {
+      "question": "Is faculty-student interaction encouraged?",
+      "answer": "Yes, faculty members conduct mentoring sessions and support students throughout the semester."
+    },
+    {
+      "question": "Are guest lectures conducted?",
+      "answer": "Yes, industry experts and professors from reputed institutions are invited regularly for guest lectures."
+    },
+    {
+      "question": "Do you offer transport for students from Siliguri town?",
+      "answer": "Yes, SIT operates buses across major points in and around Siliguri."
+    },
+    {
+      "question": "Are college buses available for hostel students?",
+      "answer": "Yes, buses are available for both day scholars and hostel residents when needed."
+    },
+    {
+      "question": "Is there parking space for student vehicles?",
+      "answer": "Yes, there is a designated parking area for students' two-wheelers."
+    },
+    {
+      "question": "When does the academic year begin?",
+      "answer": "The academic session usually begins in August, but dates vary depending on university guidelines."
+    },
+    {
+      "question": "How many semesters are there in a year?",
+      "answer": "There are two semesters in each academic year: Odd (July\u2013Dec) and Even (Jan\u2013June)."
+    },
+    {
+      "question": "When are semester exams held?",
+      "answer": "Exams are held at the end of each semester, usually in November and May."
+    },
+    {
+      "question": "Is there a student grievance cell?",
+      "answer": "Yes, SIT has a student grievance redressal cell. You can lodge complaints through the student portal."
+    },
+    {
+      "question": "Is counseling available for students?",
+      "answer": "Yes, SIT provides professional counseling support for mental health and career-related issues."
+    },
+    {
+      "question": "Do you provide academic support for weak students?",
+      "answer": "Yes, remedial classes and peer mentoring are offered for students needing extra help."
+    },
+    {
+      "question": "What is the annual fee for B.Tech?",
+      "answer": "The annual tuition fee for B.Tech is around \u20b998,000 excluding hostel and exam charges."
+    },
+    {
+      "question": "Are there any additional fees besides tuition?",
+      "answer": "Yes, students pay exam, lab, library, and development fees as per the fee structure."
+    },
+    {
+      "question": "Is there a late fee if I miss the due date?",
+      "answer": "Yes, a nominal fine is applicable if fee payment is delayed beyond the due date."
+    },
+    {
+      "question": "Are there any sports facilities?",
+      "answer": "Yes, SIT has facilities for cricket, football, basketball, badminton, and table tennis."
+    },
+    {
+      "question": "What cultural events happen on campus?",
+      "answer": "SIT organizes annual cultural festivals like 'AAROHAN', freshers party, and ethnic day."
+    },
+    {
+      "question": "Can I join student clubs?",
+      "answer": "Yes, SIT offers clubs for drama, coding, music, robotics, dance, and literature."
+    },
+    {
+      "question": "Do students get access to online learning platforms?",
+      "answer": "Yes, SIT uses Google Classroom, Moodle, and online library databases for learning."
+    },
+    {
+      "question": "Is the library available digitally?",
+      "answer": "Yes, e-books and digital journals can be accessed through the library portal."
+    },
+    {
+      "question": "Are assignments submitted online?",
+      "answer": "Yes, most assignments and submissions are handled through the internal portal."
+    },
+    {
+      "question": "Do you admit foreign students?",
+      "answer": "Yes, SIT accepts international students based on equivalency certificates and university approval."
+    },
+    {
+      "question": "Is there a separate fee structure for NRI students?",
+      "answer": "Yes, the fee structure for NRI students is different and is available on request."
+    },
+    {
+      "question": "Is TOEFL/IELTS required for foreign students?",
+      "answer": "Not necessarily, but a basic English proficiency is expected. Interview may be conducted."
+    },
+    {
+      "question": "How can I get a bonafide certificate?",
+      "answer": "Apply through the student portal or visit the registrar office to request a bonafide certificate."
+    },
+    {
+      "question": "How to request transcript or mark sheets?",
+      "answer": "You can request official transcripts from the examination cell by submitting an application."
+    },
+    {
+      "question": "Can I get a migration certificate after graduation?",
+      "answer": "Yes, the university provides migration certificate on request post-completion of degree."
+    },
+    {
+      "question": "Does SIT support GATE or GRE preparation?",
+      "answer": "Yes, coaching sessions and guidance are available through faculty and alumni networks."
+    },
+    {
+      "question": "Is there support for higher studies abroad?",
+      "answer": "Yes, students get guidance for MS, MBA, and research opportunities abroad."
+    },
+    {
+      "question": "Do alumni mentor current students?",
+      "answer": "Yes, we have an alumni mentorship program that connects current students with alumni."
+    },
+    {
+      "question": "What is the cutoff for B.Tech CSE?",
+      "answer": "The cutoff for B.Tech CSE typically ranges between 85-95 percentile in WBJEE/JEE Main."
+    },
+    {
+      "question": "How many seats are available in Mechanical Engineering?",
+      "answer": "There are 120 seats available in the Mechanical Engineering program."
+    },
+    {
+      "question": "What is the faculty-to-student ratio?",
+      "answer": "The faculty-to-student ratio is approximately 1:15 across all departments."
+    },
+    {
+      "question": "Are there any research opportunities for undergraduates?",
+      "answer": "Yes, undergraduates can participate in research projects through the Undergraduate Research Opportunities Program (UROP)."
+    },
+    {
+      "question": "What sports facilities are available?",
+      "answer": "The campus has cricket, football, and basketball grounds, plus indoor facilities for badminton and table tennis."
+    },
+    {
+      "question": "Is there a coding club?",
+      "answer": "Yes, the SIT Coding Club organizes hackathons, workshops, and competitive programming sessions."
+    },
+    {
+      "question": "What medical facilities are on campus?",
+      "answer": "The campus has a 24/7 medical center with a resident nurse and visiting doctor twice weekly."
+    },
+    {
+      "question": "Can I change my branch after first year?",
+      "answer": "Branch change is possible based on first-year academic performance and seat availability."
+    },
+    {
+      "question": "What is the hostel fee structure?",
+      "answer": "Hostel fees range from \u20b945,000-\u20b975,000 per year depending on room type (AC/non-AC)."
+    },
+    {
+      "question": "Are there any industry collaborations?",
+      "answer": "SIT has MoUs with TCS, Infosys, and Siemens for curriculum development and internships."
+    },
+    {
+      "question": "How do I access the digital library?",
+      "answer": "Use your student credentials to login at library.sittech.ac.in for e-resources."
+    },
+    {
+      "question": "What are the MBA specializations?",
+      "answer": "MBA specializations include Marketing, Finance, HR, and Operations Management."
+    },
+    {
+      "question": "Is there a bus service from Siliguri town?",
+      "answer": "Yes, college buses operate on 6 routes covering major areas of Siliguri."
+    },
+    {
+      "question": "What coding languages are taught in CSE?",
+      "answer": "The curriculum covers Python, Java, C++, and JavaScript along with DS/Algorithms."
+    },
+    {
+      "question": "Are there any international exchange programs?",
+      "answer": "SIT has student exchange partnerships with universities in Germany and Singapore."
+    },
+    {
+      "question": "How can I contact the ECE department?",
+      "answer": "Email ece@sittech.edu.in or call +91-9876543210 ext. 203."
+    },
+    {
+      "question": "What is the procedure for lateral entry?",
+      "answer": "Diploma holders can apply through JELET exam for direct 2nd year admission."
+    },
+    {
+      "question": "Are there any startup incubation facilities?",
+      "answer": "The SIT Innovation Hub provides mentorship and seed funding for student startups."
+    },
+    {
+      "question": "What security measures are in place?",
+      "answer": "Campus has 24/7 security, CCTV surveillance, and biometric entry to hostels."
+    },
+    {
+      "question": "Can I do part-time courses along with B.Tech?",
+      "answer": "Yes, certification courses in AI/ML, IoT are offered through the SIT Skill Center."
+    },
+    {
+      "question": "How many books are in the library?",
+      "answer": "The central library has over 50,000 physical books and 15,000 e-journals."
+    },
+    {
+      "question": "What is the dress code?",
+      "answer": "Formal attire is required during placements; otherwise casual modest wear is acceptable."
+    },
+    {
+      "question": "Are pets allowed in hostels?",
+      "answer": "No, pets are not permitted in hostel premises due to hygiene policies."
+    },
+    {
+      "question": "What are the canteen food options?",
+      "answer": "The canteen serves North/South Indian meals, snacks, and beverages at subsidized rates."
+    },
+    {
+      "question": "How often are cultural fests organized?",
+      "answer": "Major fests include annual tech fest 'Aavishkar' and cultural fest 'Aarohan'."
+    },
+    {
+      "question": "Can I get a fee waiver?",
+      "answer": "Fee waivers are available for economically disadvantaged students with valid income proof."
+    },
+    {
+      "question": "What is the alumni network like?",
+      "answer": "The SIT Alumni Association has 5,000+ members with active mentorship programs."
+    },
+    {
+      "question": "Are there any military quota seats?",
+      "answer": "Yes, 5 seats per branch are reserved for defense personnel dependents."
+    },
+    {
+      "question": "What lab facilities are available?",
+      "answer": "Department labs are equipped with latest equipment like 3D printers, CNC machines."
+    },
+    {
+      "question": "How do I register for campus placement?",
+      "answer": "Eligible students can register through the placement portal using college credentials."
+    },
+    {
+      "question": "Are online courses recognized?",
+      "answer": "MOOCs from SWAYAM/NPTEL are credited as per AICTE guidelines."
+    },
+    {
+      "question": "What is the policy on attendance?",
+      "answer": "Minimum 75% attendance is mandatory across theory and practical courses."
+    },
+    {
+      "question": "Can I do an internship abroad?",
+      "answer": "International internships are facilitated through the International Relations Cell."
+    },
+    {
+      "question": "What student organizations exist?",
+      "answer": "Active clubs include Robotics Club, Literary Society, and Entrepreneurship Cell."
+    },
+    {
+      "question": "How are classes scheduled?",
+      "answer": "Classes run from 9:30 AM-4:30 PM with 1-hour lunch break; timetable is semester-based."
+    },
+    {
+      "question": "Are there any reserved parking spots?",
+      "answer": "Designated parking areas are available for students with valid vehicle registration."
+    },
+    {
+      "question": "What career guidance is offered?",
+      "answer": "The Career Development Cell provides resume workshops, mock interviews, and aptitude training."
+    },
+    {
+      "question": "Can I access labs after hours?",
+      "answer": "Department labs are accessible till 8 PM with faculty permission."
+    },
+    {
+      "question": "What's the policy on leaves?",
+      "answer": "Students can apply for leaves through the student portal; medical leaves require documentation."
+    },
+    {
+      "question": "Are there any women's safety measures?",
+      "answer": "Dedicated women's cell, CCTV-covered pathways, and late-night transport available."
+    },
+    {
+      "question": "Can I take a semester break?",
+      "answer": "Semester breaks are permitted only under exceptional circumstances with HOD approval."
+    },
+    {
+      "question": "What entrepreneurship support exists?",
+      "answer": "The E-Cell provides seed funding up to \u20b950,000 for viable student startups."
+    },
+    {
+      "question": "How do I check my grades?",
+      "answer": "Grades are published on the student portal within 15 days of semester exams."
+    },
+    {
+      "question": "Are there any photography restrictions?",
+      "answer": "Photography requires prior permission in labs and certain restricted areas."
+    },
+    {
+      "question": "What mental health support is available?",
+      "answer": "Free counseling services are provided by trained psychologists twice weekly."
+    },
+    {
+      "question": "Can I audit courses?",
+      "answer": "Course auditing is permitted with HOD approval and seat availability."
+    },
+    {
+      "question": "What's the policy on plagiarism?",
+      "answer": "Strict anti-plagiarism rules apply with penalties ranging from warnings to expulsion."
+    },
+    {
+      "question": "Are there any prayer rooms?",
+      "answer": "Multi-faith prayer rooms are available in the administrative block."
+    },
+    {
+      "question": "How can I start a new student club?",
+      "answer": "Submit a proposal to the Student Affairs Committee with minimum 20 interested members."
+    },
+    {
+      "question": "Are there any banking facilities?",
+      "answer": "An SBI ATM and extension counter operate in the academic block."
+    },
+    {
+      "question": "What is the admission process for international students?",
+      "answer": "International students must apply through the Foreign Admissions Cell with valid passport, academic transcripts, and proof of English proficiency."
+    },
+    {
+      "question": "Are there any double degree programs?",
+      "answer": "Currently, SIT offers only single degree programs but allows minor specializations."
+    },
+    {
+      "question": "What industry certifications are offered?",
+      "answer": "Cisco CCNA, AWS Academy, and Autodesk certifications are available through department partnerships."
+    },
+    {
+      "question": "How do I apply for hostel accommodation?",
+      "answer": "Submit the hostel application form with your admission confirmation through the student portal."
+    },
+    {
+      "question": "What are the visiting hours for hostels?",
+      "answer": "Hostel visiting hours are 4 PM to 7 PM on weekdays and 10 AM to 7 PM on weekends."
+    },
+    {
+      "question": "Is there a laundry service in hostels?",
+      "answer": "Yes, hostel residents can use the paid laundry service or self-service washing machines."
+    },
+    {
+      "question": "What emergency services are available?",
+      "answer": "24/7 campus security (Dial 100 from any college phone), medical emergency response team."
+    },
+    {
+      "question": "Can I use my own WiFi router in hostel?",
+      "answer": "No, personal routers are not allowed. High-speed WiFi is provided throughout hostels."
+    },
+    {
+      "question": "What are the library fines for late returns?",
+      "answer": "\u20b910/day for general books, \u20b950/day for reference books and journals."
+    },
+    {
+      "question": "Are there any weekend classes?",
+      "answer": "No regular classes, but some workshops/seminars may be scheduled on Saturdays."
+    },
+    {
+      "question": "How do I report infrastructure issues?",
+      "answer": "Submit maintenance requests through the 'SIT Care' app or inform the estate office."
+    },
+    {
+      "question": "What gym facilities are available?",
+      "answer": "Fully-equipped gym with cardio machines, weights, and trained instructor (membership \u20b91000/semester)."
+    },
+    {
+      "question": "Can day scholars access hostels?",
+      "answer": "Day scholars can visit hostel common areas during visiting hours with ID proof."
+    },
+    {
+      "question": "What documents are needed for exam registration?",
+      "answer": "Valid ID card, fee receipt, and no-dues certificate from library/labs."
+    },
+    {
+      "question": "Is there a lost and found office?",
+      "answer": "Yes, contact the security office near the main gate for lost items."
+    },
+    {
+      "question": "Are there any student discounts available?",
+      "answer": "Students get discounts at campus canteen, stationery store, and local partner businesses with ID."
+    },
+    {
+      "question": "What are the PhD admission requirements?",
+      "answer": "Master's degree with 55% marks, valid GATE/NET score, and research proposal approval."
+    },
+    {
+      "question": "Can I get a semester transfer from another university?",
+      "answer": "Possible with equivalent credits approval from the academic committee."
+    },
+    {
+      "question": "What first aid facilities are available?",
+      "answer": "All departments and hostels have first aid kits; trained staff in medical center."
+    },
+    {
+      "question": "How do I apply for a bonafide certificate?",
+      "answer": "Apply online through the student portal or registrar's office (takes 3 working days)."
+    },
+    {
+      "question": "What are the rules for project submissions?",
+      "answer": "Hardbound reports submitted by deadline with anti-plagiarism declaration."
+    },
+    {
+      "question": "Are there any photography clubs?",
+      "answer": "Yes, the SIT Photography Club organizes workshops and photo walks monthly."
+    },
+    {
+      "question": "What career fairs are organized?",
+      "answer": "Annual Tech Career Fair in September and Startup Hiring Fair in March."
+    },
+    {
+      "question": "Can I defer my admission?",
+      "answer": "Deferral possible for one year with valid reason and prior approval."
+    },
+    {
+      "question": "What student discounts are available on software?",
+      "answer": "Free access to Microsoft Office 365, MATLAB, and Autodesk products with student email."
+    },
+    {
+      "question": "How do I change my personal details in records?",
+      "answer": "Submit supporting documents to the registrar's office through your department."
+    },
+    {
+      "question": "What are the rules for vehicle parking?",
+      "answer": "Parking sticker mandatory; two-wheelers \u20b9500/year, four-wheelers \u20b92000/year."
+    },
+    {
+      "question": "Are there any dance clubs?",
+      "answer": "Yes, the SIT Dance Club practices weekly and performs at cultural events."
+    },
+    {
+      "question": "What medical tests are required for admission?",
+      "answer": "Medical certificate stating fitness to study; hostel residents need additional tests."
+    },
+    {
+      "question": "Can I get an official transcript?",
+      "answer": "Yes, apply at examination cell with \u20b9500 fee; takes 7 working days."
+    },
+    {
+      "question": "What are the rules for using auditorium?",
+      "answer": "Book through events committee with faculty approval at least 15 days prior."
+    },
+    {
+      "question": "Is there a student newsletter?",
+      "answer": "Monthly e-newsletter 'SIT Pulse' covers campus news and achievements."
+    },
+    {
+      "question": "Are there any quotas for sports achievements?",
+      "answer": "5% seats reserved across programs for state/national level sportspersons."
+    },
+    {
+      "question": "What are the NCC options available?",
+      "answer": "Army, Navy and Air Force wings with regular drills and camps."
+    },
+    {
+      "question": "Can I access campus after hours?",
+      "answer": "Only hostel residents and authorized students with late permissions."
+    },
+    {
+      "question": "What are the graduation ceremony details?",
+      "answer": "Annual convocation in March with compulsory attendance for degree recipients."
+    },
+    {
+      "question": "Are there any food delivery restrictions?",
+      "answer": "Outside food delivery allowed only at main gate; not in academic blocks."
+    },
+    {
+      "question": "How do I apply for a duplicate ID card?",
+      "answer": "Pay \u20b9200 at accounts office and submit application with FIR copy if lost."
+    },
+    {
+      "question": "What are the rules for industrial visits?",
+      "answer": "Mandatory for 3rd/4th years; consent form and full attendance required."
+    },
+    {
+      "question": "Are there any astronomy facilities?",
+      "answer": "Astronomy club with telescope and star-gazing events during clear nights."
+    },
+    {
+      "question": "Can I get course exemptions?",
+      "answer": "Possible for transfer students through exemption exam (\u20b91000/subject)."
+    },
+    {
+      "question": "What are the rules for project dissertations?",
+      "answer": "Minimum 60 pages, 5 copies submitted before deadline with guide approval."
+    },
+    {
+      "question": "Are there any debate competitions?",
+      "answer": "Regular inter-college debates organized by the Literary Society."
+    },
+    {
+      "question": "How do I check my attendance percentage?",
+      "answer": "Real-time attendance available on student portal under 'Academic Records'."
+    },
+    {
+      "question": "What are the rules for revaluation?",
+      "answer": "Apply within 15 days of results with \u20b91000/subject fee."
+    },
+    {
+      "question": "Are there any rural immersion programs?",
+      "answer": "Mandatory 2-week rural internship for all 3rd year students."
+    },
+    {
+      "question": "Can I use college facilities after graduation?",
+      "answer": "Alumni get library access but lab usage requires special permission."
+    },
+    {
+      "question": "What are the rules for cultural fest participation?",
+      "answer": "Register through student council with 75% attendance requirement."
+    },
+    {
+      "question": "Are there any film screening events?",
+      "answer": "Weekly educational screenings and annual student film festival."
+    },
+    {
+      "question": "How do I complain about faculty?",
+      "answer": "Submit written complaint to HOD or use anonymous grievance box."
+    },
+    {
+      "question": "What are the rules for summer internships?",
+      "answer": "Minimum 4 weeks duration with submission of report and certificate."
+    },
+    {
+      "question": "Are there any music practice rooms?",
+      "answer": "Yes, soundproof rooms available in cultural center with prior booking."
+    },
+    {
+      "question": "Can I get a refund if I withdraw admission?",
+      "answer": "As per AICTE norms: 100% refund before session start, decreasing thereafter."
+    },
+    {
+      "question": "What are the rules for conference participation?",
+      "answer": "College sponsors 50% fees for papers published in reputed conferences."
+    },
+    {
+      "question": "Are there any community service programs?",
+      "answer": "NSS wing organizes weekly village outreach and blood donation camps."
+    },
+    {
+      "question": "How do I access previous year question papers?",
+      "answer": "Digital archive available on library portal with student login."
+    },
+    {
+      "question": "What are the rules for industrial training?",
+      "answer": "6-week compulsory training after 4th semester with evaluation report."
+    },
+    {
+      "question": "Are there any 3D printing facilities?",
+      "answer": "Additive manufacturing lab with 5 printers available for academic projects."
+    },
+    {
+      "question": "Can I take extra courses beyond curriculum?",
+      "answer": "Maximum 2 audit courses per semester with additional fees."
+    },
+    {
+      "question": "What are the rules for thesis submission?",
+      "answer": "Hardbound copies submitted 1 month before final viva with plagiarism report."
+    },
+    {
+      "question": "Are there any patent filing facilities?",
+      "answer": "IPR cell assists students with patent searches and filing procedures."
+    },
+    {
+      "question": "How do I apply for education loans?",
+      "answer": "College has tie-ups with SBI and Canara Bank for preferential loan processing."
+    },
+    {
+      "question": "What are the rules for project funding?",
+      "answer": "Maximum \u20b910,000 funding for innovative projects approved by incubation center."
+    },
+    {
+      "question": "Are there any aeromodelling activities?",
+      "answer": "Aero Club builds drones and participates in national competitions."
+    },
+    {
+      "question": "Can I get a leave for family emergencies?",
+      "answer": "Immediate 5-day leave granted with proper documentation."
+    },
+    {
+      "question": "What are the rules for using sports equipment?",
+      "answer": "Issue against ID card from sports complex; damage charges applicable."
+    },
+    {
+      "question": "Are there any language courses offered?",
+      "answer": "Optional courses in German, Japanese and French through language lab."
+    },
+    {
+      "question": "How do I report ragging incidents?",
+      "answer": "24/7 anti-ragging helpline (1800-123-4567) or direct complaint to committee."
+    },
+    {
+      "question": "What are the rules for inter-college competitions?",
+      "answer": "Approval required from student activities coordinator 2 weeks prior."
+    },
+    {
+      "question": "Are there any disability support services?",
+      "answer": "Ramp access, special exam provisions, and assistive technologies available."
+    },
+    {
+      "question": "Can I get a recommendation letter?",
+      "answer": "Faculty provide letters for eligible students with 7 days notice."
+    },
+    {
+      "question": "What are the rules for off-campus placements?",
+      "answer": "College provides bonafide but no placement credit for off-campus jobs."
+    },
+    {
+      "question": "Are there any agricultural projects?",
+      "answer": "Vertical farming research project in collaboration with state agriculture dept."
+    },
+    {
+      "question": "How do I register for competitive exams?",
+      "answer": "College facilitates GATE/GRE registrations with fee concessions."
+    },
+    {
+      "question": "What are the rules for using the makerspace?",
+      "answer": "Safety training mandatory before equipment access; open 10AM-6PM."
+    },
+    {
+      "question": "Are there any toy design projects?",
+      "answer": "Mechanical engineering department runs annual toy design competition."
+    },
+    {
+      "question": "Can I get my semester extended?",
+      "answer": "Maximum 2 semester extensions permitted with valid medical/academic reasons."
+    },
+    {
+      "question": "What are the rules for hostel room changes?",
+      "answer": "Allowed only between semesters based on availability and valid reasons."
+    },
+    {
+      "question": "Are there any ethical hacking courses?",
+      "answer": "Cybersecurity electives cover ethical hacking through licensed software."
+    },
+    {
+      "question": "How do I join the college magazine team?",
+      "answer": "Audition through English department during annual recruitment in August."
+    },
+    {
+      "question": "What are the rules for alumni visits?",
+      "answer": "Alumni can visit during working hours after gate registration."
+    },
+    {
+      "question": "Are there any quantum computing courses?",
+      "answer": "Advanced elective on quantum algorithms available for final year students."
+    },
+    {
+      "question": "Can I get a bus pass for city transport?",
+      "answer": "Concessional passes available through college for Siliguri city buses."
+    },
+    {
+      "question": "What are the rules for guest lectures?",
+      "answer": "Students can propose speakers through department with faculty sponsorship."
+    },
+    {
+      "question": "Are there any VR development facilities?",
+      "answer": "VR lab with Oculus devices available for CSE/ECE project work."
+    },
+    {
+      "question": "How do I apply for research grants?",
+      "answer": "Submit proposal to research cell; maximum \u20b950,000 funding per project."
+    },
+    {
+      "question": "What are the rules for using the swimming pool?",
+      "answer": "Open 6-8AM and 4-6PM; medical certificate and safety orientation required."
+    },
+    {
+      "question": "Are there any bioengineering projects?",
+      "answer": "Biomedical instrumentation projects in ECE department."
+    },
+    {
+      "question": "Can I get a certificate for extracurricular activities?",
+      "answer": "Participation certificates issued by student activities office on request."
+    },
+    {
+      "question": "What robotics equipment is available?",
+      "answer": "We have Arduino kits, 3D printers, industrial robots, and drone development platforms."
+    },
+    {
+      "question": "How do I access cloud computing resources?",
+      "answer": "Use AWS Educate credits through CSE department; request access via lab coordinator."
+    },
+    {
+      "question": "Are there IEEE student chapters?",
+      "answer": "Yes, active IEEE chapters for CS, ECE, and Power Engineering with global events."
+    },
+    {
+      "question": "What renewable energy projects exist?",
+      "answer": "Solar power research in EEE department with 20kW campus installation."
+    },
+    {
+      "question": "How to join the campus podcast studio?",
+      "answer": "Book through Media Club; training provided on audio equipment."
+    },
+    {
+      "question": "What CNC machines are in Mech labs?",
+      "answer": "HAAS CNC milling machines and lathes available for student projects."
+    },
+    {
+      "question": "Is there a green campus initiative?",
+      "answer": "Waste segregation, solar lighting, and electric vehicle charging stations."
+    },
+    {
+      "question": "How to publish in college journals?",
+      "answer": "Submit to 'SIT Research Letters' through faculty guide; published annually."
+    },
+    {
+      "question": "What BIM software is taught?",
+      "answer": "Revit, AutoCAD Civil 3D, and STAAD Pro in Civil Engineering curriculum."
+    },
+    {
+      "question": "Are hackathons organized?",
+      "answer": "Quarterly hackathons with prizes up to \u20b950,000; next event Oct 15-17."
+    },
+    {
+      "question": "What IoT kits are available?",
+      "answer": "Raspberry Pi 4, NodeMCU, and sensor kits for academic projects."
+    },
+    {
+      "question": "How to access simulation software?",
+      "answer": "ANSYS, MATLAB, and ETAP available in computer labs 24/7."
+    },
+    {
+      "question": "What industry visits are scheduled?",
+      "answer": "Annual visits to NTPC, TATA Steel, and ITC for core branches."
+    },
+    {
+      "question": "Are smart classrooms available?",
+      "answer": "All classrooms have projectors, PA systems, and digital whiteboards."
+    },
+    {
+      "question": "How to reserve study rooms?",
+      "answer": "Book through Library App for group study rooms (max 4 hours/session)."
+    },
+    {
+      "question": "What CAD software is taught?",
+      "answer": "SolidWorks, CATIA, and Fusion 360 in Mechanical curriculum."
+    },
+    {
+      "question": "Are there SCADA system labs?",
+      "answer": "Yes, PLC and SCADA labs with Siemens equipment for EEE students."
+    },
+    {
+      "question": "How to participate in Formula Student?",
+      "answer": "Join SIT Motorsports team; recruitment every January."
+    },
+    {
+      "question": "What microscopy facilities exist?",
+      "answer": "Metallurgy lab with SEM and optical microscopes."
+    },
+    {
+      "question": "Are satellite projects available?",
+      "answer": "CubeSat development project through ISRO collaboration."
+    },
+    {
+      "question": "How to access career aptitude tests?",
+      "answer": "Free psychometric testing at Career Cell; book via student portal."
+    },
+    {
+      "question": "What VR equipment is available?",
+      "answer": "Oculus Quest 2 headsets in CSE lab for AR/VR development."
+    },
+    {
+      "question": "Are biometric attendance systems used?",
+      "answer": "Yes, RFID-based attendance tracking in all departments."
+    },
+    {
+      "question": "What textile engineering equipment exists?",
+      "answer": "Fabric testing lab with tensile strength and flammability testers."
+    },
+    {
+      "question": "How to join the college band?",
+      "answer": "Auditions held during Freshers' Week; instruments provided."
+    },
+    {
+      "question": "What hydroponics projects exist?",
+      "answer": "Vertical farming research in Civil Engineering department."
+    },
+    {
+      "question": "Are forensic engineering electives?",
+      "answer": "Crash investigation and material failure analysis electives."
+    },
+    {
+      "question": "How to access laser cutters?",
+      "answer": "Laser cutting service at Innovation Hub (\u20b950/sheet); training required."
+    },
+    {
+      "question": "What composite materials labs exist?",
+      "answer": "Carbon fiber and polymer testing facilities."
+    },
+    {
+      "question": "Are nanotech research opportunities?",
+      "answer": "Nanomaterials synthesis lab with SEM access for PG students."
+    },
+    {
+      "question": "How to get welding certification?",
+      "answer": "ASME certification workshops every semester; fee \u20b93,000."
+    },
+    {
+      "question": "What electric vehicle projects exist?",
+      "answer": "Student team building EV conversion kit for two-wheelers."
+    },
+    {
+      "question": "Are biomedical instrumentation labs?",
+      "answer": "ECG simulators, pacemaker testers in ECE department."
+    },
+    {
+      "question": "How to join Model United Nations?",
+      "answer": "SIT MUN club recruits annually; international conferences organized."
+    },
+    {
+      "question": "What food tech facilities exist?",
+      "answer": "Food processing lab with extrusion and packaging equipment."
+    },
+    {
+      "question": "Are technical writing workshops?",
+      "answer": "Monthly workshops by IEEE student chapter; certification provided."
+    },
+    {
+      "question": "How to access CNC machining?",
+      "answer": "Submit project request to Mech department; operator-assisted access."
+    },
+    {
+      "question": "What rocket propulsion projects?",
+      "answer": "Student team developing solid-fuel rockets for national competitions."
+    },
+    {
+      "question": "Are patent drafting workshops?",
+      "answer": "IPR cell conducts quarterly workshops with patent attorneys."
+    },
+    {
+      "question": "How to use spectrum analyzers?",
+      "answer": "Training provided in ECE labs; book via lab technician."
+    },
+    {
+      "question": "What earthquake engineering labs?",
+      "answer": "Shake tables and structural health monitoring systems."
+    },
+    {
+      "question": "Are computational fluid dynamics labs?",
+      "answer": "ANSYS Fluent workstations in Mechanical department."
+    },
+    {
+      "question": "How to join Tesla Club?",
+      "answer": "Apply during tech fest; focus on sustainable energy projects."
+    },
+    {
+      "question": "What embedded systems kits?",
+      "answer": "ARM Cortex, PIC, and Raspberry Pi Pico development boards."
+    },
+    {
+      "question": "Are digital marketing certifications?",
+      "answer": "Google Digital Garage certifications through MBA department."
+    },
+    {
+      "question": "How to access thermal cameras?",
+      "answer": "FLIR cameras available in Mechanical labs for research projects."
+    },
+    {
+      "question": "What geotechnical testing equipment?",
+      "answer": "Triaxial testers and consolidation apparatus in Civil labs."
+    },
+    {
+      "question": "Are scientific writing courses?",
+      "answer": "LaTeX and research paper writing electives for PG students."
+    },
+    {
+      "question": "How to join autonomous vehicle team?",
+      "answer": "Robotics Club sub-group; recruitment notices in CSE department."
+    },
+    {
+      "question": "What FPGA development boards?",
+      "answer": "Xilinx Artix-7 and Altera Cyclone V boards in ECE labs."
+    },
+    {
+      "question": "Are supply chain certifications?",
+      "answer": "APICS certification preparation through MBA department."
+    },
+    {
+      "question": "How to access wind tunnel?",
+      "answer": "Aerodynamics lab; UG projects prioritized with faculty approval."
+    },
+    {
+      "question": "What concrete testing facilities?",
+      "answer": "2000kN compression testers and slump test lab."
+    },
+    {
+      "question": "Are fintech research projects?",
+      "answer": "Blockchain implementation for rural banking through MBA-CSE collab."
+    },
+    {
+      "question": "How to use network analyzers?",
+      "answer": "ECE lab training sessions first Monday monthly; register online."
+    },
+    {
+      "question": "What automotive test benches?",
+      "answer": "Engine dyno and emission testing for IC engines."
+    },
+    {
+      "question": "Are UI/UX design workshops?",
+      "answer": "Figma/Adobe XD workshops quarterly through CSE department."
+    },
+    {
+      "question": "How to access satellite imagery?",
+      "answer": "Remote sensing lab with IRS and Sentinel data access."
+    },
+    {
+      "question": "What power electronics labs?",
+      "answer": "Thyristor drives, inverters, and chopper circuits in EEE."
+    },
+    {
+      "question": "Are clinical psychology services?",
+      "answer": "Fortnightly sessions with licensed clinical psychologist."
+    },
+    {
+      "question": "How to join AI research group?",
+      "answer": "Contact CSE HOD with academic record; projects on NLP/computer vision."
+    },
+    {
+      "question": "What vibration analysis equipment?",
+      "answer": "Laser vibrometers and FFT analyzers in Mech department."
+    },
+    {
+      "question": "Are digital twin projects?",
+      "answer": "Industry collaborations implementing digital twins for manufacturing."
+    },
+    {
+      "question": "How to access CNC programming?",
+      "answer": "Mastercam training every semester; \u20b92,000 fee for certification."
+    },
+    {
+      "question": "What environmental testing chambers?",
+      "answer": "Temperature/humidity chambers in Material Science lab."
+    },
+    {
+      "question": "Are game development workshops?",
+      "answer": "Unity/Unreal Engine workshops through CSE gaming club."
+    },
+    {
+      "question": "How to use vector network analyzers?",
+      "answer": "Advanced RF training for final year ECE students."
+    },
+    {
+      "question": "What NDT equipment is available?",
+      "answer": "Ultrasonic, dye penetrant, and magnetic particle testing kits."
+    },
+    {
+      "question": "Are HR analytics certifications?",
+      "answer": "SHRM certification prep through MBA HR specialization."
+    },
+    {
+      "question": "How to access electron microscope?",
+      "answer": "SEM access for PG/research projects; \u20b9500/hour usage fee."
+    },
+    {
+      "question": "What building automation systems?",
+      "answer": "KNX and BACnet systems in Smart Campus Lab."
+    },
+    {
+      "question": "Are materials characterization labs?",
+      "answer": "XRD, FTIR, and TGA equipment for advanced research."
+    },
+    {
+      "question": "How to join quantum computing study?",
+      "answer": "Special interest group meets Fridays; contact Dr. Roy in Physics Dept."
+    },
+    {
+      "question": "What RF design facilities?",
+      "answer": "CST Studio Suite and anechoic chamber in ECE."
+    },
+    {
+      "question": "Are financial modeling workshops?",
+      "answer": "Bloomberg Terminal training in Finance Lab monthly."
+    },
+    {
+      "question": "How to access rapid prototyping?",
+      "answer": "3D printing service at \u20b95/gram; submit STL files to workshop."
+    },
+    {
+      "question": "What mechatronics projects exist?",
+      "answer": "Automated sorting systems and robotic arms in integrated lab."
+    },
+    {
+      "question": "Are genomics research opportunities?",
+      "answer": "Bioinformatics projects using college's high-performance computing."
+    },
+    {
+      "question": "How to use PLC trainers?",
+      "answer": "Siemens S7-1200 stations in Automation Lab; book via technician."
+    },
+    {
+      "question": "What architectural modeling tools?",
+      "answer": "Revit Architecture and SketchUp in Civil department."
+    },
+    {
+      "question": "Are semiconductor fabrication labs?",
+      "answer": "Clean room for IC design verification (PG/research only)."
+    },
+    {
+      "question": "How to join cybersecurity team?",
+      "answer": "CTF team recruitment during Cyber Security Awareness Month."
+    },
+    {
+      "question": "What fluid power systems?",
+      "answer": "Pneumatic/hydraulic test benches with Festo systems."
+    },
+    {
+      "question": "Are market research facilities?",
+      "answer": "Consumer behavior lab with eye-tracking in MBA department."
+    },
+    {
+      "question": "How to access HPC cluster?",
+      "answer": "Request account from IT department; 128-core cluster for research."
+    },
+    {
+      "question": "What acoustic testing facilities?",
+      "answer": "Reverberation chamber and anechoic room in Mechanical."
+    },
+    {
+      "question": "Are robotics competitions?",
+      "answer": "ABU Robocon and national rover challenges; team selection in Aug."
+    },
+    {
+      "question": "How to use EM simulation tools?",
+      "answer": "HFSS and CST Microwave training for antenna design."
+    },
+    {
+      "question": "What soil testing equipment?",
+      "answer": "Direct shear apparatus and permeability testers."
+    },
+    {
+      "question": "Are digital forensics labs?",
+      "answer": "FTK and EnCase workstations in Cybersecurity Center."
+    },
+    {
+      "question": "How to join IoT innovation lab?",
+      "answer": "Open innovation challenges quarterly; winners get lab access."
+    },
+    {
+      "question": "What energy auditing projects?",
+      "answer": "Campus energy mapping using IoT sensors; student teams welcome."
+    },
+    {
+      "question": "Are actuarial science courses?",
+      "answer": "SOA exam prep through Mathematics department electives."
+    },
+    {
+      "question": "How to access vibration shakers?",
+      "answer": "Electrodynamic shakers for structural testing; PG priority."
+    },
+    {
+      "question": "What photogrammetry equipment?",
+      "answer": "DJI drones with Pix4D software for aerial surveys."
+    },
+    {
+      "question": "Are fashion tech projects?",
+      "answer": "Wearable electronics lab in ECE with textile collaborations."
+    },
+    {
+      "question": "How to use RF signal generators?",
+      "answer": "Advanced ECE lab equipment; complete Basic RF course first."
+    },
+    {
+      "question": "What building energy modeling?",
+      "answer": "DesignBuilder and EnergyPlus software in Smart Campus Lab."
+    },
+    {
+      "question": "Are sports analytics research?",
+      "answer": "Motion capture lab for biomechanics projects."
+    },
+    {
+      "question": "How to join 5G testbed project?",
+      "answer": "Research assistant positions advertised in ECE newsletter."
+    },
+    {
+      "question": "What's the college website?",
+      "answer": "The official website is sittech.ac.in"
+    },
+    {
+      "question": "Where is SIT located?",
+      "answer": "Salbari, Sukna, Siliguri, West Bengal - 734009"
+    },
+    {
+      "question": "What's the contact number?",
+      "answer": "Call +91-9876543210 during office hours (9AM-5PM)"
+    },
+    {
+      "question": "What's the admission email?",
+      "answer": "Email admissions@sittech.edu.in for admission queries"
+    },
+    {
+      "question": "When does college start?",
+      "answer": "Academic session begins in August every year"
+    },
+    {
+      "question": "What time do classes begin?",
+      "answer": "Morning classes start at 9:30 AM daily"
+    },
+    {
+      "question": "Is uniform compulsory?",
+      "answer": "No formal uniform, but decent attire is required"
+    },
+    {
+      "question": "How many semesters in B.Tech?",
+      "answer": "8 semesters (4 years) with exams every 6 months"
+    },
+    {
+      "question": "Where do I pay fees?",
+      "answer": "Pay online via student portal or at accounts office"
+    },
+    {
+      "question": "Is Wi-Fi free for students?",
+      "answer": "Yes, free high-speed Wi-Fi across campus"
+    },
+    {
+      "question": "Are laptops allowed?",
+      "answer": "Yes, laptops are permitted in classes and library"
+    },
+    {
+      "question": "Where is the canteen?",
+      "answer": "Ground floor of main academic building"
+    },
+    {
+      "question": "What food is served?",
+      "answer": "North/South Indian meals, snacks, beverages"
+    },
+    {
+      "question": "How much is lunch?",
+      "answer": "Meals cost \u20b950-70, snacks \u20b920-40"
+    },
+    {
+      "question": "Where is the library?",
+      "answer": "First floor of central academic block"
+    },
+    {
+      "question": "What are library timings?",
+      "answer": "8:30 AM to 8 PM (Mon-Fri), 10AM-4PM (Sat)"
+    },
+    {
+      "question": "How many books can I borrow?",
+      "answer": "4 books for 14 days per student"
+    },
+    {
+      "question": "Where do I get my ID card?",
+      "answer": "Collect from admin office after admission"
+    },
+    {
+      "question": "What if I lose my ID?",
+      "answer": "Pay \u20b9200 for duplicate card at accounts office"
+    },
+    {
+      "question": "Are two-wheelers allowed?",
+      "answer": "Yes with valid parking sticker (\u20b9500/year)"
+    },
+    {
+      "question": "Where is student parking?",
+      "answer": "Behind academic block (Gate 2)"
+    },
+    {
+      "question": "How does bus transport work?",
+      "answer": "6 routes across Siliguri, fee \u20b92000/semester"
+    },
+    {
+      "question": "Where's the medical room?",
+      "answer": "Next to administration building, open 24/7"
+    },
+    {
+      "question": "Is there a college app?",
+      "answer": "Yes, 'SIT Connect' on Play Store/App Store"
+    },
+    {
+      "question": "How to reset portal password?",
+      "answer": "Click 'Forgot Password' on student portal"
+    },
+    {
+      "question": "Where to find timetable?",
+      "answer": "On student portal under 'Academics' section"
+    },
+    {
+      "question": "How to report attendance issue?",
+      "answer": "Contact your class coordinator within 3 days"
+    },
+    {
+      "question": "Where to submit assignments?",
+      "answer": "Via Google Classroom or department submission box"
+    },
+    {
+      "question": "What if I miss an exam?",
+      "answer": "Submit medical certificate for re-examination"
+    },
+    {
+      "question": "Where are exam results?",
+      "answer": "Published on student portal within 15 days"
+    },
+    {
+      "question": "How to meet HOD?",
+      "answer": "Visit department office during consultation hours"
+    },
+    {
+      "question": "Where's the placement office?",
+      "answer": "First floor of Industry Interaction Block"
+    },
+    {
+      "question": "How to register for placements?",
+      "answer": "Eligible students auto-registered in 3rd year"
+    },
+    {
+      "question": "Where are hostels located?",
+      "answer": "Separate blocks behind main campus (East side)"
+    },
+    {
+      "question": "What's in hostel room?",
+      "answer": "Bed, study table, cupboard, Wi-Fi"
+    },
+    {
+      "question": "Can I choose roommates?",
+      "answer": "Yes, mention preference in hostel application"
+    },
+    {
+      "question": "Are bedsheets provided?",
+      "answer": "Mattress only; bring your own bedding"
+    },
+    {
+      "question": "What are hostel timings?",
+      "answer": "Hostel gates close at 7:30 PM daily"
+    },
+    {
+      "question": "How is hostel food?",
+      "answer": "Vegetarian/non-veg options, 4 meals daily"
+    },
+    {
+      "question": "Where to wash clothes?",
+      "answer": "Common washing machines or paid laundry service"
+    },
+    {
+      "question": "Where to buy stationery?",
+      "answer": "College coop store near canteen"
+    },
+    {
+      "question": "How to print documents?",
+      "answer": "Cyber caf\u00e9 near library (\u20b92/page)"
+    },
+    {
+      "question": "Where to fill water bottles?",
+      "answer": "RO water dispensers on every floor"
+    },
+    {
+      "question": "Are there ATMs?",
+      "answer": "SBI ATM near main gate"
+    },
+    {
+      "question": "Where to complain about facilities?",
+      "answer": "Use 'SIT Care' app or visit estate office"
+    },
+    {
+      "question": "How to join NCC?",
+      "answer": "Register during club fair in August"
+    },
+    {
+      "question": "Where are sports grounds?",
+      "answer": "Behind hostels (cricket/football)"
+    },
+    {
+      "question": "Can I play indoor games?",
+      "answer": "Badminton courts & table tennis in sports complex"
+    },
+    {
+      "question": "How to contact security?",
+      "answer": "Dial 100 from any campus phone"
+    },
+    {
+      "question": "What in medical emergency?",
+      "answer": "Contact medical room (Ext. 222) or call 102"
+    },
+    {
+      "question": "Where's the nearest hospital?",
+      "answer": "Sukna Primary Health Centre (1km)"
+    },
+    {
+      "question": "Are parents allowed in hostels?",
+      "answer": "Yes during visiting hours (4-7PM) with ID proof"
+    },
+    {
+      "question": "Where to send couriers?",
+      "answer": "Address: [Student Name], [Hostel Block], SIT, Salbari, Siliguri-734009"
+    },
+    {
+      "question": "How to get bonafide certificate?",
+      "answer": "Apply at admin office with ID proof"
+    },
+    {
+      "question": "Where is the bookstore?",
+      "answer": "'Knowledge Hub' near library entrance"
+    },
+    {
+      "question": "Can day scholars use library?",
+      "answer": "Yes, until 8 PM with valid ID card"
+    },
+    {
+      "question": "Where is the campus located?",
+      "answer": "Siliguri Institute of Technology is at Hill Cart Road, Salbari, Sukna, Siliguri, West Bengal - 734009."
+    },
+    {
+      "question": "What engineering programs are offered?",
+      "answer": "We offer B.Tech in: Computer Science, Mechanical, Civil, Electrical, and Electronics & Communication Engineering."
+    },
+    {
+      "question": "How to apply for scholarships?",
+      "answer": "Apply through the 'Scholarships' portal on our website or contact the financial aid office at scholarship@sittech.edu.in."
+    },
+    {
+      "question": "What hostel facilities are available?",
+      "answer": "Separate AC/non-AC hostels with Wi-Fi, laundry, 24/7 security, and mess serving 4 meals daily. Fees: \u20b945,000-75,000/year."
+    },
+    {
+      "question": "How to contact departments?",
+      "answer": "Department contacts are listed under 'Academics > Departments' on our website. General inquiries: +91-9876543210."
+    },
+    {
+      "question": "What are placement statistics?",
+      "answer": "80-85% placement rate annually. Average package: \u20b94.5 LPA, highest: \u20b918 LPA (2023). Top recruiters include TCS, Infosys, Wipro."
+    },
+    {
+      "question": "How to apply for admission?",
+      "answer": "Apply online via the 'Admissions Portal' at sittech.ac.in. Requires WBJEE/JEE Main scores."
+    },
+    {
+      "question": "What's the fee structure?",
+      "answer": "B.Tech tuition: \u20b998,000/year. Hostel extra. See complete breakdown at sittech.ac.in/fees."
+    },
+    {
+      "question": "Is transportation available?",
+      "answer": "Yes, buses run from Siliguri, Jalpaiguri, and nearby areas. Semester pass: \u20b92,000. Routes on website."
+    },
+    {
+      "question": "What medical facilities exist?",
+      "answer": "24/7 medical room with nurse. Tie-up with nearby hospitals for emergencies. Free first-aid."
+    },
+    {
+      "question": "Are internships provided?",
+      "answer": "Yes, mandatory 6-week internship after 4th semester. Placement cell assists with company tie-ups."
+    },
+    {
+      "question": "What's the attendance policy?",
+      "answer": "Minimum 75% required across all subjects. Medical leaves accepted with documentation."
+    },
+    {
+      "question": "How to access academic schedules?",
+      "answer": "Timetables and exam schedules are published under 'Quick Links > Academic Calendar' on our website."
+    },
+    {
+      "question": "programs?",
+      "answer": "We offer B.Tech in Computer Science, Electronics & Communication, Mechanical, Civil, and Electrical Engineering"
+    },
+    {
+      "question": "facilities?",
+      "answer": "Campus facilities include: AC classrooms, high-speed WiFi, library, sports grounds, medical room, and cafeteria"
+    },
+    {
+      "question": "Hostel",
+      "answer": "Separate hostels for boys/girls with: WiFi, mess, laundry, 24/7 security, common rooms"
+    },
+    {
+      "question": "statistics?",
+      "answer": "Placement stats: 80-85% placement rate, avg package \u20b94.5L, highest \u20b918L"
+    },
+    {
+      "question": "Placement",
+      "answer": "Our placement cell coordinates with 100+ companies including TCS, Infosys, Wipro"
+    },
+    {
+      "question": "department contacts?",
+      "answer": "Department contacts available at: sittech.ac.in/departments"
+    },
+    {
+      "question": "What extracurricular activities are available?",
+      "answer": "We have clubs for robotics, coding, music, dance, sports, and more. Annual tech fest in March."
+    },
+    {
+      "question": "How can I access the library?",
+      "answer": "The library is open from 8:30 AM to 8 PM on weekdays. Use your student ID to borrow books."
+    },
+    {
+      "question": "What is the college's code of conduct?",
+      "answer": "Students must maintain discipline, respect faculty, and adhere to academic integrity policies."
+    },
+    {
+      "question": "Are there any cultural events?",
+      "answer": "Yes, we celebrate various festivals and organize cultural events throughout the year."
+    },
+    {
+      "question": "How can I join student clubs?",
+      "answer": "You can join clubs during the club fair held at the beginning of each academic year."
+    },
+    {
+      "question": "What is the process for feedback on courses?",
+      "answer": "Feedback forms are circulated at the end of each semester. You can also email feedback to feedback@sittech.edu.in."
+    },
+    {
+      "question": "What courses are offered at the college?",
+      "answer": "We offer undergraduate and postgraduate programs including B.Tech, M.Tech, MBA, and MCA."
+    },
+    {
+      "question": "How can I apply for admission?",
+      "answer": "Visit our official website and fill out the online application form under the Admissions section."
+    },
+    {
+      "question": "What documents are required during admission?",
+      "answer": "You will need your 10th and 12th mark sheets, transfer certificate, ID proof, and passport-sized photographs."
+    },
+    {
+      "question": "What is the fee structure for B.Tech?",
+      "answer": "The annual tuition fee for B.Tech is ₹1.2 lakh. Additional charges may apply for hostel and transport."
+    },
+    {
+      "question": "Are there any scholarship programs available?",
+      "answer": "Yes, we offer merit-based and need-based scholarships. You can apply through the scholarship portal on our website."
+    },
+    {
+      "question": "Where can I find the academic calendar?",
+      "answer": "The academic calendar is available on the college website under the 'Academics' section."
+    },
+    {
+      "question": "How can I access my class schedule?",
+      "answer": "Login to the student portal and go to the 'Time Table' section."
+    },
+    {
+      "question": "When are the internal exams conducted?",
+      "answer": "Midterm exams are usually held in March and final exams in June and December, depending on the semester."
+    },
+    {
+      "question": "How do I apply for a revaluation of my answer sheets?",
+      "answer": "You can apply through the exam section of the student portal within 7 days of the result declaration."
+    },
+    {
+      "question": "What is the attendance policy?",
+      "answer": "Students must maintain at least 75% attendance to be eligible for semester exams."
+    },
+    {
+      "question": "How do I use the college library?",
+      "answer": "Use your student ID to access the library. You can borrow up to 3 books for 14 days."
+    },
+    {
+      "question": "Are hostels available for students?",
+      "answer": "Yes, separate hostels are available for boys and girls with mess and Wi-Fi facilities."
+    },
+    {
+      "question": "Is there a placement cell in the college?",
+      "answer": "Yes, our dedicated placement cell conducts training and placement drives with top companies."
+    },
+    {
+      "question": "How can I contact my faculty?",
+      "answer": "Faculty contact details are listed on the department page of the college website or available through the student portal."
+    },
+    {
+      "question": "Can I get a bonafide certificate online?",
+      "answer": "Yes, you can apply for a bonafide certificate through the student portal under the ‘Certificates’ section."
+    },
+    {
+      "question": "What is the process to get a transfer certificate?",
+      "answer": "Submit a written application to the academic office. After clearance from all departments, the TC will be issued."
+    },
+    {
+      "question": "How do I register for campus events or fests?",
+      "answer": "Registrations are usually open on the college event portal or through department notices."
+    },
+    {
+      "question": "What are the rules for using college transport?",
+      "answer": "Students must carry their ID cards and follow the bus schedule. Monthly passes can be purchased from the transport office."
+    },
+    {
+      "question": "How can I access online learning resources?",
+      "answer": "Login to the student portal and navigate to the 'E-Learning' section for access to course materials and lectures."
+    },
+    {
+      "question": "Are there any research opportunities for undergraduates?",
+      "answer": "Yes, students can participate in faculty-led research projects during their final year."
+    },
+    {
+      "question": "What is the procedure for applying for leave?",
+      "answer": "Submit a leave application to your class coordinator with valid reasons at least 2 days in advance."
+    },
+    {
+      "question": "How do I get my transcripts?",
+      "answer": "Request transcripts through the academic office by filling out a form and paying the required fee."
+    },
+    {
+      "question": "Are there any language courses offered?",
+      "answer": "Yes, we offer courses in French, German, and Spanish as electives in the second year."
+    },
+    {
+      "question": "What are the rules for using college labs?",
+      "answer": "Students must follow safety protocols, wear lab coats, and report any damages immediately."
+    },
+    {
+      "question": "How can I participate in inter-college competitions?",
+      "answer": "Keep an eye on announcements from the student affairs office or your department for upcoming events."
+    },
+    {
+      "question": "What is the process for obtaining a migration certificate?",
+      "answer": "Apply through the academic office with a written request and necessary documents; processing takes 10 days."
+    },
+    {
+      "question": "Are there any entrepreneurship programs available?",
+      "answer": "Yes, we have an incubation center that supports student startups with mentorship and funding opportunities."
+    }
+
+  ]
+}
+

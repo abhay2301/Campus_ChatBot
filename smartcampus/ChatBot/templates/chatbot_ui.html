@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JARVIS Chatbot</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <style>
+        :root {
+            --jarvis-blue: #134d86;
+            --jarvis-dark: #0a192f;
+            --jarvis-glow: rgba(44, 71, 98, 0.7);
+        }
+
+        body {
+            background-color: #f0f2f5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .jarvis-container {
+            max-width: 800px;
+            margin: 2rem auto;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .jarvis-header {
+            background: linear-gradient(135deg, var(--jarvis-dark), var(--jarvis-blue));
+            color: white;
+            padding: 1.5rem;
+            position: relative;
+        }
+
+        .jarvis-header h2 {
+            margin: 0;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+        }
+
+        .jarvis-header h2 i {
+            margin-right: 15px;
+            color: gold;
+        }
+
+        .status-indicator {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background-color: #4caf50;
+            display: inline-block;
+            margin-left: 10px;
+            box-shadow: 0 0 10px #4caf50;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+
+        .chat-container {
+            background-color: white;
+            height: 500px;
+            overflow-y: auto;
+            padding: 20px;
+            background-image: url('https://www.transparenttextures.com/patterns/dark-exa.png');
+            background-blend-mode: overlay;
+            background-color: rgba(255, 255, 255, 0.95);
+            display: flex;
+            flex-direction: column;
+            scroll-behavior: smooth;
+        }
+
+        .message {
+            margin-bottom: 15px;
+            max-width: 80%;
+            padding: 12px 18px;
+            border-radius: 18px;
+            position: relative;
+            animation: fadeIn 0.3s ease-out;
+            word-wrap: break-word;
+            clear: both;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .user-message {
+            background-color: var(--jarvis-blue);
+            color: white;
+            margin-left: auto;
+            margin-right: 0;
+            border-bottom-right-radius: 5px;
+            align-self: flex-end;
+        }
+
+        .jarvis-message {
+            background-color: #f1f1f1;
+            margin-right: auto;
+            margin-left: 0;
+            border-bottom-left-radius: 5px;
+            align-self: flex-start;
+            margin-top: 25px;
+            line-height: 1.6;
+        }
+        .jarvis-message strong {
+            color: var(--jarvis-blue);
+            font-weight: 600;
+        }
+
+        .jarvis-message::before {
+            content: "JARVIS";
+            position: absolute;
+            top: -20px;
+            left: 0;
+            font-size: 0.7rem;
+            color: var(--jarvis-blue);
+            font-weight: bold;
+        }
+
+        .message + .message {
+            margin-top: 10px;
+        }
+
+        .typing-container {
+            background-color: white;
+            padding: 0 20px 10px 20px;
+            min-height: 0;
+            border-top: 1px solid #f0f0f0;
+        }
+
+        .typing-indicator {
+            display: flex;
+            padding: 10px 15px;
+            background-color: #f1f1f1;
+            border-radius: 18px;
+            width: fit-content;
+            margin: 10px 0 5px 0;
+            position: relative;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .typing-indicator::before {
+            display: none !important;
+            content: none !important;
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            background-color: #666;
+            border-radius: 50%;
+            margin: 0 3px;
+            animation: typingAnimation 1.4s infinite ease-in-out;
+        }
+
+        .typing-dot:nth-child(1) { animation-delay: 0s; }
+        .typing-dot:nth-child(2) { animation-delay: 0.2s; }
+        .typing-dot:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes typingAnimation {
+            0%, 60%, 100% { transform: translateY(0); }
+            30% { transform: translateY(-5px); }
+        }
+
+        .input-container {
+            background-color: white;
+            padding: 15px 20px;
+            border-top: 1px solid #eee;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .form-control {
+            border-radius: 25px;
+            padding: 12px 20px;
+            border: 1px solid #ddd;
+            box-shadow: none;
+            flex: 1;
+            font-size: 14px;
+        }
+
+        .form-control:focus {
+            border-color: var(--jarvis-blue);
+            box-shadow: 0 0 0 0.25rem rgba(19, 77, 134, 0.25);
+            outline: none;
+        }
+
+        .btn-jarvis {
+            background-color: var(--jarvis-blue);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            transition: all 0.3s;
+        }
+
+        .btn-jarvis:hover {
+            background-color: #0052a3;
+            transform: scale(1.05);
+            box-shadow: 0 0 15px var(--jarvis-glow);
+        }
+        /* Add this to your existing CSS styles */
+        .chatbot-link {
+            color: var(--jarvis-blue);
+            text-decoration: none;
+            border-bottom: 1px solid var(--jarvis-blue);
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .chatbot-link:hover {
+            color: #0052a3;
+            border-bottom-color: #0052a3;
+            background-color: rgba(19, 77, 134, 0.1);
+            text-decoration: none;
+        }
+
+        .chatbot-link:visited {
+            color: #6a4c93;
+        }
+
+        /* Make links in JARVIS messages more visible */
+        .jarvis-message .chatbot-link {
+            color: var(--jarvis-blue);
+            background-color: rgba(19, 77, 134, 0.1);
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+
+
+        /* Mobile responsiveness */
+        @media (max-width: 768px) {
+            .jarvis-container {
+                margin: 0;
+                border-radius: 0;
+                height: 100vh;
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .chat-container {
+                flex: 1;
+                height: auto;
+            }
+            
+            .message {
+                max-width: 90%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="jarvis-container">
+            <div class="jarvis-header">
+                <h2><i class="fas fa-robot"></i> JARVIS Assistant <span class="status-indicator"></span></h2>
+                <p class="mb-0 mt-1 small">At your service, Sir.</p>
+            </div>
+
+            <div class="chat-container" id="chatWindow">
+                <!-- Messages will appear here -->
+                <div class="message jarvis-message">
+                    Good day, Sir. How may I assist you today?
+                </div>
+            </div>
+
+            <!-- Typing indicator container - positioned between chat and input -->
+            <div class="typing-container">
+                <div class="typing-indicator" id="typingIndicator" style="display: none;">
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                </div>
+            </div>
+
+            <div class="input-container">
+                <input type="text" class="form-control" id="userInput" 
+                       placeholder="Type your message here..." autocomplete="off">
+                <button class="btn btn-jarvis" id="sendButton">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap 5 JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Custom JavaScript -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatWindow = document.getElementById('chatWindow');
+            const userInput = document.getElementById('userInput');
+            const sendButton = document.getElementById('sendButton');
+            const typingIndicator = document.getElementById('typingIndicator');
+
+            function makeLinksClickable(text) {
+                // Regular expression to match URLs
+                const urlRegex = /(https?:\/\/[^\s<>"]+)/gi;
+                
+                return text.replace(urlRegex, function(url) {
+                    // Clean the URL (remove trailing punctuation)
+                    let cleanUrl = url.replace(/[.,;!?]$/, '');
+                    return `<a href="${cleanUrl}" target="_blank" rel="noopener noreferrer" class="chatbot-link">${cleanUrl}</a>`;
+                });
+            }
+
+            function addMessage(message, isUser) {
+                const messageDiv = document.createElement('div');
+                messageDiv.className = `message ${isUser ? 'user-message' : 'jarvis-message'}`;
+                
+                if (!isUser) {
+                    // For JARVIS messages, format with proper line breaks AND clickable links
+                    let formattedMessage = message
+                        .replace(/\n/g, '<br>')
+                        .replace(/([.!?])\s+([A-Z])/g, '$1<br><br>$2')
+                        .replace(/:\s*/g, ':<br>')
+                        .replace(/([0-9]+\.)/g, '<br>$1')
+                        .replace(/^<br>/g, ''); // Remove leading break
+                    
+                    // Convert URLs to clickable links
+                    formattedMessage = makeLinksClickable(formattedMessage);
+                    
+                    messageDiv.innerHTML = formattedMessage;
+                } else {
+                    messageDiv.textContent = message;
+                }
+                
+                chatWindow.appendChild(messageDiv);
+                chatWindow.scrollTop = chatWindow.scrollHeight;
+            }
+
+            function showTyping() {
+                typingIndicator.style.display = 'flex';
+            }
+
+            function hideTyping() {
+                typingIndicator.style.display = 'none';
+            }
+
+            async function sendMessage() {
+                const message = userInput.value.trim();
+                if (!message) return;
+
+                addMessage(message, true);
+                userInput.value = '';
+                showTyping();
+
+                try {
+                    const response = await fetch("/api/chatbot/", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                            "X-Requested-With": "XMLHttpRequest"
+                        },
+                        body: JSON.stringify({ query: message }),
+                    });
+
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+
+                    const data = await response.json();
+
+                    hideTyping();
+
+                    if (data.error) {
+                        addMessage(`Error: ${data.error}`, false);
+                    } else {
+                        addMessage(data.response, false);
+                    }
+
+                } catch (error) {
+                    console.error("Fetch error:", error);
+                    hideTyping();
+                    addMessage("Apologies, Sir. I encountered an error processing your request.", false);
+                }
+            }
+
+            sendButton.addEventListener('click', sendMessage);
+            userInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') sendMessage();
+            });
+
+            // Initial JARVIS greeting
+            setTimeout(() => {
+                addMessage("All systems operational. Ready when you are, Sir.", false);
+            }, 500);
+        });
+</script>
+
+
+</body>
+</html>
